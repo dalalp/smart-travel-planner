@@ -1,0 +1,6 @@
+[
+  { "city": "Bali", "country": "Indonesia", "avg_cost_usd": 950 },
+  { "city": "Bangkok", "country": "Thailand", "avg_cost_usd": 850 },
+  { "city": "Colombo", "country": "Sri Lanka", "avg_cost_usd": 700 },
+  { "city": "Zurich", "country": "Switzerland", "avg_cost_usd": 1900 }
+]

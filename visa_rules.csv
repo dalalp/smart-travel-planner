@@ -1,0 +1,6 @@
+passport_country,destination_country,visa_required
+IN,Indonesia,false
+IN,Thailand,false
+IN,USA,true
+IN,Sri Lanka,false
+IN,Switzerland,true
